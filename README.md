@@ -6,7 +6,7 @@ CSE student specializing in AI Automation and No-Code Workflow Engineering. Buil
 
 Skills: AI & Automation | Prompt Engineering | RAG (Retrieval-Augmented Generation)| SEO & Marketing | On-Page SEO | Technical SEO | Communication | Teamwork |                                               
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning AI Automation
 
 
 
