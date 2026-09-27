@@ -1,10 +1,13 @@
-<h1 align="center">Hi , I'm Mujahidul Islam Shihab</h1>
-<h3 align="center">A passionate AI Automation developer from Bangladesh</h3>
+### Hi there 👋, my name is Mujahidul Islam Shihab
+#### I am passionate AI Automation developer from Bangladesh
+![I am passionate AI Automation developer from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQEFx8OWWN2NQA/profile-displaybackgroundimage-shrink_350_1400/B56aC4cNB2IQAU-/0/1789800796520?e=1792022400&v=beta&t=DRmaKHT37z0JFYsOGp3wABbc7uYKRaUDj7Da8JBLqrk)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+CSE student specializing in AI Automation and No-Code Workflow Engineering. Building AI-powered workflows, RAG systems, and API integrations with n8n, Make and Zapier.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+Skills: AI & Automation | Prompt Engineering | RAG (Retrieval-Augmented Generation)| SEO & Marketing | On-Page SEO | Technical SEO | Communication | Teamwork |                                               
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
